@@ -1,0 +1,22 @@
+
+ En esta ocacion estas en la seccion de vendedor, donde podras registrar, modificar, ver y/o eliminar tus juegos
+
+   Se pueden agregar algun juego tecleando el numero 1 y presionando enter
+   En esta opcion te pedira los datos del juego solo asegurate registrar correctamente el tipo de dato.
+   Es especial el anio de lanzamiento y el precio deben ser numeros.
+
+   Se pueden modificar los juegos existente tecleando 2 y presionando enter.
+   Busque su juego. Y empiece a teclear los nuevos datos del juego
+	
+   Se puede eliminar algun juego registrado tecleando 3 y presionando enter.
+   Busque su juego y confirme la eliminacion.
+
+   Para simplemente buscar un juego si hacer modificaciones es presionando la tecla 4 y presionando enter"
+   Esto mostrara los juegos existentes
+
+   En caso de que haya demsiada informacion, Presione 5 para limpiar la pantalla";
+   Y para salir del programa y finalizar la sesion.Presione 6.
+	
+   Esperamos que la experiencia de este programa sea placentera.
+   Y agradecemos tu preferencia ya que el programa esta en beta.
+
